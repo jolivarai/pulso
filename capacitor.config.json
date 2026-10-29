@@ -1,0 +1,17 @@
+{
+  "appId": "com.pulso.entrenador",
+  "appName": "Pulso",
+  "webDir": "pulso",
+  "backgroundColor": "#080b10",
+  "android": {
+    "allowMixedContent": false,
+    "captureInput": false,
+    "webContentsDebuggingEnabled": false
+  },
+  "plugins": {
+    "BackgroundGeolocation": {
+      "notificationTitle": "Pulso",
+      "notificationText": "Grabando tu ruta"
+    }
+  }
+}
